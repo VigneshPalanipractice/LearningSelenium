@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-01-16T19:17:40 IST" name="Suite" finished-at="2025-01-16T19:17:45 IST" duration-ms="5713">
+    <groups>
+    </groups>
+    <test started-at="2025-01-16T19:17:40 IST" name="Test" finished-at="2025-01-16T19:17:45 IST" duration-ms="5713">
+      <class name="com.orange.hrm.test1.LoginTest">
+        <test-method is-config="true" signature="initDriver()[pri:0, instance:com.orange.hrm.test1.LoginTest@cc43f62]" started-at="2025-01-16T19:17:29 IST" name="initDriver" finished-at="2025-01-16T19:17:40 IST" duration-ms="10279" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initDriver -->
+        <test-method signature="loginWithValidUserNameAndValidPassword()[pri:0, instance:com.orange.hrm.test1.LoginTest@cc43f62]" started-at="2025-01-16T19:17:40 IST" name="loginWithValidUserNameAndValidPassword" finished-at="2025-01-16T19:17:43 IST" duration-ms="2938" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithValidUserNameAndValidPassword -->
+      </class> <!-- com.orange.hrm.test1.LoginTest -->
+      <class name="com.orange.hrm.test1.HomePageTest">
+        <test-method signature="logout()[pri:0, instance:com.orange.hrm.test1.HomePageTest@273444fe]" started-at="2025-01-16T19:17:43 IST" name="logout" finished-at="2025-01-16T19:17:45 IST" duration-ms="2732" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+      </class> <!-- com.orange.hrm.test1.HomePageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
