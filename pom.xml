@@ -24,7 +24,7 @@
 				<version>3.5.2</version>
 				<configuration>
 					<suiteXmlFiles>
-						<suiteXmlFile>testHRM.xml</suiteXmlFile>
+						<suiteXmlFile>OrangeHRM1.xml</suiteXmlFile>
 					</suiteXmlFiles>
 				</configuration>
 			</plugin>
